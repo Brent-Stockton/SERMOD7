@@ -1,5 +1,7 @@
 /**
- * Simple program acts as a gateway that is a middle layer between server instances and the users, it is used to distribute incoming traffic to different servers capable of fulflling those requests in a manner that maximizes throughput, and ensures that no one server is overworked.
+ * Simple program acts as a gateway that is a middle layer between server instances and the users, 
+ it is used to distribute incoming traffic to different servers capable of fulflling those requests 
+ in a manner that maximizes throughput, and ensures that no one server is overworked.
  * 
  * @author Brent Stockton
  * @version 1.1
